@@ -56,6 +56,7 @@ public class Ruin {
 							System.out.println("Simulation " +  (i+ 1) + "; " +dayCount + " Win");	
 						}
 				
+					
 				
 		
 			
